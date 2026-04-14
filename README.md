@@ -107,7 +107,7 @@ Também pode ocorrer acúmulo de dados nos buffers, indicando a presença de gar
 
 A Rede de Petri foi utilizada para representar o sistema de forma visual.
 
-Foi usada na execução a aplicação Snoopy.
+Foi usada na implementação da RP a aplicação 'Snoopy'.
 
 Na modelagem:
 
