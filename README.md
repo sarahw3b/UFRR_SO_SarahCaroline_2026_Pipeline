@@ -107,6 +107,8 @@ Também pode ocorrer acúmulo de dados nos buffers, indicando a presença de gar
 
 A Rede de Petri foi utilizada para representar o sistema de forma visual.
 
+Foi usada na execução a aplicação Snoopy.
+
 Na modelagem:
 
 - Lugares representam os buffers;
